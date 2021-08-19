@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25ea87d7-438d-4a4b-bf99-2492abc24372" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Diango-twitter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Diango-twitter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,7 @@
       <updated>1629190747555</updated>
       <workItem from="1629190750301" duration="9570000" />
       <workItem from="1629271507540" duration="71000" />
-      <workItem from="1629271787522" duration="1352000" />
+      <workItem from="1629271787522" duration="5744000" />
     </task>
     <servers />
   </component>
